@@ -19,6 +19,8 @@
 [Copy ME.txt](https://github.com/user-attachments/files/16822995/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
+
+# Change one of chatType6 with chatType5 please, I can't TYPE properly!!
 ![image](https://github.com/user-attachments/assets/399cbbd8-2b69-44fd-8c6e-1f208b2168fa)
 
 
