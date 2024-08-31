@@ -2,7 +2,7 @@
 
 ## Powered by ⭐ [streamerbot.com ](https://streamer.bot/) ⭐
 
-🔘 This works well with my volume widget: https://github.com/OnlyRipper/OBS-Volume-Widget-Streamer.Bot | If you use both add a "Run Ation" in the Sub-Actions at the end to also trigger the widget!
+🔘 This works (kinds of) well with my volume widget: https://github.com/OnlyRipper/OBS-Volume-Widget-Streamer.Bot | If you use both add a "Run Ation" in the Sub-Actions at the end to also trigger the widget!
 *As for now the widget won't show more than 100% if boosted over!*
 
 🔘 The command works by specifying the name and the volume:
