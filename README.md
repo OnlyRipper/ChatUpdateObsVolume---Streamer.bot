@@ -19,6 +19,8 @@
 [Copy ME.txt](https://github.com/user-attachments/files/16822995/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
+![image](https://github.com/user-attachments/assets/399cbbd8-2b69-44fd-8c6e-1f208b2168fa)
+
 
 *Make sure you enabled the command in commands tab.*
 *You can't mute sources for now, will probably update in the future*
