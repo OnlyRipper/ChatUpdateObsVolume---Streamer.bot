@@ -1,4 +1,3 @@
-# ChatUpdateObsVolume-Streamer.bot
 # Update specific Audio Source volume using Twitch chat.
 
 ## Powered by ⭐ [streamerbot.com ](https://streamer.bot/) ⭐
