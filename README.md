@@ -1,26 +1,25 @@
 # ChatUpdateObsVolume-Streamer.bot
-# OB
+# Update specific Audio Source volume using Twitch chat.
 
-## This is my first attempt on making something like this, so there might be LOTS of BUGS for now, I will try to fix any problems asap!
-## Many thanks to [streamerbot.com ](https://streamer.bot/) which I used.
+## Powered by ⭐ [streamerbot.com ](https://streamer.bot/) ⭐
 
-Checks volume sources in obs and displays the current level for each chosen source, It's going to convert from db in % when showing.
+🔘 This works well with my volume widget: https://github.com/OnlyRipper/OBS-Volume-Widget-Streamer.Bot | If you use both add a "Run Ation" in the Sub-Actions at the end to also trigger the widget!
+*As for now the widget won't show more than 100% if boosted over!*
 
-🔘 Web socket server required with default port 8080.                                      
+🔘 The command works by specifying the name and the volume:
+* ex: !volume game 70 (this will aproximate a lower the volume in OBS with 3.1 db)
+ ![image](https://github.com/user-attachments/assets/08dfee88-1601-47d9-b231-138e5431e532)
+ ![image](https://github.com/user-attachments/assets/4ed79298-0f06-4bec-88a8-ac8301335138)
+*The reason why it may look weird how it updates is because at -20db to -30db is already way too low to go even lower!*
 
-🔘 Download the .zip file - Extract the folder anywhere in your PC - Add a browser source in OBS (check Local file box) locate and add the intex.html file, uncheck Shutdown and Refresh boxes if checked.
-Set the size of the sournce to 1000x1100.                     
+* ex: !volume game 110 (this will boost with 10 the volume in OBS, maximum 125 in chat)
+![image](https://github.com/user-attachments/assets/ce70b142-49e0-479f-80b4-a6f7f4db15f7)
+![image](https://github.com/user-attachments/assets/d25b46f6-23b1-4138-888d-1a4e63877ad2)                
 
 🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-[Copy ME.txt](https://github.com/user-attachments/files/16789808/Copy.ME.txt)
+[Copy ME.txt](https://github.com/user-attachments/files/16822995/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
 
-🔘 If you mute a source it won't show as 0%, this gets the actual db volume of the source not if muted, I might add this to it later, and also I will add a version with no background or frame if requested.
-  
-![2024-08-28 20-59-32](https://github.com/user-attachments/assets/a1aec0e6-3fe6-4943-b0ea-4c48c39902b4)
- 
-🔘Commands  ◻️ !volumes (Show widget for 10secoonds(default), you can change the command name or use another command for example a set volume source to also show the widget.
-
-Make sure you enabled the command in commands tab.
-
+*Make sure you enabled the command in commands tab.*
+*You can't mute sources for now, will probably update in the future*
