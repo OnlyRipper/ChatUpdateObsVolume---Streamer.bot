@@ -6,7 +6,7 @@
 *As for now the widget won't show more than 100% if boosted over!*
 
 🔘 The command works by specifying the name and the volume:
-* ex: !volume game 70 (this will aproximate a lower the volume in OBS with 3.1 db)
+* ex: !volume game 70 (this will aproximate a lower volume in OBS with 3.1 db)
  ![image](https://github.com/user-attachments/assets/08dfee88-1601-47d9-b231-138e5431e532)
  ![image](https://github.com/user-attachments/assets/4ed79298-0f06-4bec-88a8-ac8301335138)
 *The reason why it may look weird how it updates is because at -20db to -30db is already way too low to go even lower!*
