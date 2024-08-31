@@ -16,8 +16,7 @@
 ![image](https://github.com/user-attachments/assets/d25b46f6-23b1-4138-888d-1a4e63877ad2)                
 
 🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-[Copy ME.txt](https://github.com/user-attachments/files/16823113/Copy.ME.txt)
-
+[Copy ME.txt](https://github.com/user-attachments/files/16823204/Copy.ME.txt)
 
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
